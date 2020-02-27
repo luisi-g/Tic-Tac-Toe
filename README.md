@@ -1,6 +1,6 @@
-###Tic-Tac-Toe
+### Tic-Tac-Toe
 
-A Tic-Tac-Toe game made using React.js during R2H 
+A Tic-Tac-Toe game made using React.js.
 
 ## Getting Started
 
